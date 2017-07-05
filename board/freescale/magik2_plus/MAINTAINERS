@@ -1,0 +1,8 @@
+MAGIK2_PLUS BOARD
+M:	Fabio Estevam <fabio.estevam@freescale.com>
+S:	Maintained
+F:	board/freescale/magik2_plus/
+F:	include/configs/magik2_plus.h
+F:	configs/magik2_plus_dl_defconfig
+F:	configs/magik2_plus_defconfig
+F:	configs/magik2_plus_spl_defconfig
